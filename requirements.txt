@@ -1,0 +1,6 @@
+fastapi>=0.109.0
+uvicorn[standard]>=0.23.0
+azure-ai-openai>=1.1.0
+azure-search-documents>=11.8.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
